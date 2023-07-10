@@ -1,0 +1,59 @@
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\ColorHelper.dll
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_DatLich.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_DichVu.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_Home.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_Kho.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.CopyComplete
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Downloads\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ThemKhachHang.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\BUS.dll
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\ColorHelper.dll
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\DTO.dll
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\DAL.dll
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\BUS.pdb
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\DTO.pdb
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\bin\Debug\DAL.pdb
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.AssemblyReference.cache
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.SuggestedBindingRedirects.cache
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_ThemKhachHang.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_NhaCungCap.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_DatLich.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_DichVu.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_Home.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.UC_Kho.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.GenerateResource.cache
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.CoreCompileInputs.cache
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\SPA.csproj.CopyComplete
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Nam 3\pttkht\SPA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

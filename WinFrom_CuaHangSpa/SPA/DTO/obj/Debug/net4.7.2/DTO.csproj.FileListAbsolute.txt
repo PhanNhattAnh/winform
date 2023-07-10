@@ -1,0 +1,18 @@
+C:\Users\Admin\Downloads\SPA\DTO\bin\Debug\net4.7.2\DTO.dll
+C:\Users\Admin\Downloads\SPA\DTO\bin\Debug\net4.7.2\DTO.pdb
+C:\Users\Admin\Downloads\SPA\DTO\obj\Debug\net4.7.2\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SPA\DTO\obj\Debug\net4.7.2\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\SPA\DTO\obj\Debug\net4.7.2\DTO.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\SPA\DTO\obj\Debug\net4.7.2\DTO.AssemblyInfo.cs
+C:\Users\Admin\Downloads\SPA\DTO\obj\Debug\net4.7.2\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SPA\DTO\obj\Debug\net4.7.2\DTO.dll
+C:\Users\Admin\Downloads\SPA\DTO\obj\Debug\net4.7.2\DTO.pdb
+D:\Nam 3\pttkht\SPA\DTO\bin\Debug\net4.7.2\DTO.dll
+D:\Nam 3\pttkht\SPA\DTO\bin\Debug\net4.7.2\DTO.pdb
+D:\Nam 3\pttkht\SPA\DTO\obj\Debug\net4.7.2\DTO.csproj.AssemblyReference.cache
+D:\Nam 3\pttkht\SPA\DTO\obj\Debug\net4.7.2\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam 3\pttkht\SPA\DTO\obj\Debug\net4.7.2\DTO.AssemblyInfoInputs.cache
+D:\Nam 3\pttkht\SPA\DTO\obj\Debug\net4.7.2\DTO.AssemblyInfo.cs
+D:\Nam 3\pttkht\SPA\DTO\obj\Debug\net4.7.2\DTO.csproj.CoreCompileInputs.cache
+D:\Nam 3\pttkht\SPA\DTO\obj\Debug\net4.7.2\DTO.dll
+D:\Nam 3\pttkht\SPA\DTO\obj\Debug\net4.7.2\DTO.pdb

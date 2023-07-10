@@ -1,0 +1,28 @@
+C:\Users\Admin\Downloads\SPA\BUS\bin\Debug\net4.7.2\BUS.dll
+C:\Users\Admin\Downloads\SPA\BUS\bin\Debug\net4.7.2\BUS.pdb
+C:\Users\Admin\Downloads\SPA\BUS\bin\Debug\net4.7.2\DAL.dll
+C:\Users\Admin\Downloads\SPA\BUS\bin\Debug\net4.7.2\DTO.dll
+C:\Users\Admin\Downloads\SPA\BUS\bin\Debug\net4.7.2\DAL.pdb
+C:\Users\Admin\Downloads\SPA\BUS\bin\Debug\net4.7.2\DTO.pdb
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfo.cs
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.csproj.CopyComplete
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.dll
+C:\Users\Admin\Downloads\SPA\BUS\obj\Debug\net4.7.2\BUS.pdb
+D:\Nam 3\pttkht\SPA\BUS\bin\Debug\net4.7.2\BUS.dll
+D:\Nam 3\pttkht\SPA\BUS\bin\Debug\net4.7.2\BUS.pdb
+D:\Nam 3\pttkht\SPA\BUS\bin\Debug\net4.7.2\DAL.dll
+D:\Nam 3\pttkht\SPA\BUS\bin\Debug\net4.7.2\DTO.dll
+D:\Nam 3\pttkht\SPA\BUS\bin\Debug\net4.7.2\DAL.pdb
+D:\Nam 3\pttkht\SPA\BUS\bin\Debug\net4.7.2\DTO.pdb
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.csproj.AssemblyReference.cache
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfoInputs.cache
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.AssemblyInfo.cs
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.csproj.CoreCompileInputs.cache
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.csproj.CopyComplete
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.dll
+D:\Nam 3\pttkht\SPA\BUS\obj\Debug\net4.7.2\BUS.pdb

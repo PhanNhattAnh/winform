@@ -1,0 +1,24 @@
+C:\Users\Admin\Downloads\SPA\DAL\bin\Debug\net4.7.2\DAL.dll
+C:\Users\Admin\Downloads\SPA\DAL\bin\Debug\net4.7.2\DAL.pdb
+C:\Users\Admin\Downloads\SPA\DAL\bin\Debug\net4.7.2\DTO.dll
+C:\Users\Admin\Downloads\SPA\DAL\bin\Debug\net4.7.2\DTO.pdb
+C:\Users\Admin\Downloads\SPA\DAL\obj\Debug\net4.7.2\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SPA\DAL\obj\Debug\net4.7.2\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\SPA\DAL\obj\Debug\net4.7.2\DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\SPA\DAL\obj\Debug\net4.7.2\DAL.AssemblyInfo.cs
+C:\Users\Admin\Downloads\SPA\DAL\obj\Debug\net4.7.2\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SPA\DAL\obj\Debug\net4.7.2\DAL.csproj.CopyComplete
+C:\Users\Admin\Downloads\SPA\DAL\obj\Debug\net4.7.2\DAL.dll
+C:\Users\Admin\Downloads\SPA\DAL\obj\Debug\net4.7.2\DAL.pdb
+D:\Nam 3\pttkht\SPA\DAL\bin\Debug\net4.7.2\DAL.dll
+D:\Nam 3\pttkht\SPA\DAL\bin\Debug\net4.7.2\DAL.pdb
+D:\Nam 3\pttkht\SPA\DAL\bin\Debug\net4.7.2\DTO.dll
+D:\Nam 3\pttkht\SPA\DAL\bin\Debug\net4.7.2\DTO.pdb
+D:\Nam 3\pttkht\SPA\DAL\obj\Debug\net4.7.2\DAL.csproj.AssemblyReference.cache
+D:\Nam 3\pttkht\SPA\DAL\obj\Debug\net4.7.2\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam 3\pttkht\SPA\DAL\obj\Debug\net4.7.2\DAL.AssemblyInfoInputs.cache
+D:\Nam 3\pttkht\SPA\DAL\obj\Debug\net4.7.2\DAL.AssemblyInfo.cs
+D:\Nam 3\pttkht\SPA\DAL\obj\Debug\net4.7.2\DAL.csproj.CoreCompileInputs.cache
+D:\Nam 3\pttkht\SPA\DAL\obj\Debug\net4.7.2\DAL.csproj.CopyComplete
+D:\Nam 3\pttkht\SPA\DAL\obj\Debug\net4.7.2\DAL.dll
+D:\Nam 3\pttkht\SPA\DAL\obj\Debug\net4.7.2\DAL.pdb
